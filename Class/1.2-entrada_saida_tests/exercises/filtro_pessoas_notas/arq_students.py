@@ -1,0 +1,9 @@
+
+students = {
+    "Marcos": 10,
+    "Felipe": 4,
+    "José": 6,
+    "Ana": 10,
+    "Maria": 9,
+    "Miguel": 5
+}
